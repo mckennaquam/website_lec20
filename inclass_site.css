@@ -19,3 +19,23 @@ p {
     margin-right: auto;
     width: 50%;
 }
+
+#vis1{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#vis2{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
